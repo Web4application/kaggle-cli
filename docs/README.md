@@ -33,7 +33,7 @@ Store your Kaggle API token obtained from your [Kaggle account settings page](ht
 
 ### Option 3: Legacy API credentials file
 
-From your [Kaggle account settings page](https://www.kaggle.com/settings), under "Legacy API Credentials", click on the "Create Legacy API Key" button to generate a `kaggle.json` file and store it at `~/.kaggle/kaggle.json`.
+From your [Kaggle account settings page](https://www.kaggle.com/settings), under "Legacy API Credentials", click on the "Create Legacy API Key" button to generate a `kaggle.json` file and store it at `~/.kaggle/kaggle.jsonl`.
 
 ## CLI Usage
 
