@@ -1,4 +1,4 @@
-# Kaggle CLI Documentation
+# Kaggle CLI Documentation  
 
 Welcome to the Kaggle CLI documentation. This guide provides detailed information on how to use the Kaggle command-line interface to interact with Kaggle's platform.
 
@@ -23,7 +23,8 @@ After login, you can download your Kaggle API credentials at https://www.kaggle.
 ### Option 1: Environment variable
 
 ```sh
-export KAGGLE_API_TOKEN=xxxxxxxxxxxxxx # Copied from the settings UI
+export KAGGLE_API_TOKEN=KGAT_3e677b363ae483d33c4abd0985e11f86
+~/.kaggle/kaggle.json
 ```
 
 ### Option 2: API token file
